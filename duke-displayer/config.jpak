@@ -1,0 +1,6 @@
+--name duke-displayer
+--app-version 1.0
+--win-dir-chooser
+--win-shortcut
+--module-path jar
+--module duke.displayer/org.paumard.duke.DukeDisplayer

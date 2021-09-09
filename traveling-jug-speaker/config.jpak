@@ -1,0 +1,7 @@
+--name traveling-jug-speaker
+--app-version 1.0
+--win-dir-chooser
+--win-console
+--win-shortcut
+--module-path target/traveling-jug-speaker-1.0.jar
+--module traveling.jug.speaker/org.paumard.travel.TravelingJUGSpeaker

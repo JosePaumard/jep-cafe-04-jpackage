@@ -1,0 +1,21 @@
+## JUGS in France
+Bordeaux          392,  799
+Brest              73,  331
+Clermont-Ferrand  722,  690
+Grenoble          956,  760
+Lannion           174,  295
+Lille             718,   73
+Lyon              873,  689
+Marseille         935, 1001
+Montpellier       794,  963
+Nancy             980,  315
+Nantes            320,  493
+Nice             1104,  940
+Orléans           620,  417
+Paris             645,  293
+Poitiers          482,  583
+Rennes            316,  381
+Rouen             556,  223
+Strasbourg       1113,  323
+Toulouse          571,  963
+Tours             515,  483
